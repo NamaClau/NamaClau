@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NamaClau
+- 👋 Hi, I’m @NamaClau / Claudio Yahya
 - 👀 I’m interested in Penetration Testing / other hacking stuff
 - 🌱 I’m currently learning Cyber Security
 - 📫 dio.yahya24@gmail.com
